@@ -14,6 +14,13 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             Text("Putut Yusri Bahtiar!")
+            
+            Button {
+                <#code#>
+            } label: {
+                Text("Click me")
+            }
+
         }
         .padding()
     }
