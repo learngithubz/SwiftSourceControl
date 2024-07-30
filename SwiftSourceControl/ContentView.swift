@@ -6,6 +6,12 @@
 //
 
 /*
+ Clone = copying the repo locally
+ Commit = Save (*Checkpoint) on our current branch
+ Stage = Prepare changes for a commit
+ Stash = Save changes for later
+ 
+ 
  COMMIT MESSAGE RULE:
  NEW FEATURE :
  [Feature] Description of the feature you add
